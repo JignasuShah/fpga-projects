@@ -1,0 +1,23 @@
+# Quartus generated output — never commit these
+output_files/
+db/
+incremental_db/
+simulation/
+*.rpt
+*.smsg
+*.done
+*.pin
+*.sof
+*.pof
+*.bak
+*.jdi
+*.qws
+*.dpf
+
+# Keep these source files
+!*.v
+!*.sv
+!*.sdc
+!*.qpf
+!*.qsf
+!*.md
